@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://fitfixclothesalterations.co.ke/sitemap.xml
