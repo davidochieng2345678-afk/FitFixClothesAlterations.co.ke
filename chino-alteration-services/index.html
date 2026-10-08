@@ -1368,6 +1368,13 @@ header{position:sticky;top:0;background:var(--ivory);border-bottom:1px solid var
             });
         });
     </script>
-
+<script>
+document.querySelectorAll('a[href^="https://wa.me"], a[href^="tel:"]').forEach(function(a){
+  a.addEventListener('click', function(){
+    var label = a.getAttribute('data-track') || (a.href.indexOf('tel:')===0 ? 'call' : 'whatsapp');
+    if (typeof gtag === 'function') { gtag('event', 'contact_click', { method: label, page: 'chino' }); }
+  });
+});
+</script>
 </body>
 </html>
