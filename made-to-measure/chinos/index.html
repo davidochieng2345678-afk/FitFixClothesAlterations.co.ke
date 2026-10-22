@@ -885,5 +885,75 @@ document.querySelectorAll('[data-track]').forEach(function(el){
   });
 });
 </script>
+
+  <!-- AUTOMATIC NAVIGATION REPLACEMENT SCRIPT -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // 1. Add the CSS styles for the new navigation
+    const style = document.createElement('style');
+    style.innerHTML = `
+        .fitfix-main-nav { background: #111; border-bottom: 2px solid #D4AF37; position: sticky; top: 0; z-index: 1000; font-family: Arial, Helvetica, sans-serif; width: 100%; }
+        .fitfix-main-nav .ff-nav-wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; height: 70px; }
+        .fitfix-main-nav .ff-nav-logo { color: #fff; font-size: 18px; font-weight: 700; text-decoration: none; }
+        .fitfix-main-nav .ff-nav-logo span { color: #D4AF37; }
+        .fitfix-main-nav .ff-nav-links { display: flex; gap: 24px; list-style: none; margin: 0; padding: 0; }
+        .fitfix-main-nav .ff-nav-links a { color: #e8e8e8; text-decoration: none; font-size: 15px; font-weight: 500; transition: color 0.2s; }
+        .fitfix-main-nav .ff-nav-links a:hover, .fitfix-main-nav .ff-nav-links a.active { color: #D4AF37; }
+        .fitfix-main-nav .ff-nav-cta { background: #D4AF37; color: #111; padding: 10px 20px; border-radius: 4px; text-decoration: none; font-weight: 700; font-size: 14px; white-space: nowrap; }
+        .fitfix-main-nav .ff-nav-cta:hover { background: #b8932b; }
+        .fitfix-main-nav .ff-nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 10px; }
+        .fitfix-main-nav .ff-nav-toggle span { display: block; width: 25px; height: 2px; background: #fff; margin: 5px 0; transition: 0.3s; }
+        @media (max-width: 900px) {
+            .fitfix-main-nav .ff-nav-toggle { display: block; }
+            .fitfix-main-nav .ff-nav-links { display: none; position: absolute; top: 70px; left: 0; right: 0; background: #111; flex-direction: column; padding: 20px; gap: 15px; border-bottom: 2px solid #D4AF37; }
+            .fitfix-main-nav .ff-nav-links.open { display: flex; }
+            .fitfix-main-nav .ff-nav-cta { display: none; }
+        }
+    `;
+    document.head.appendChild(style);
+
+    // 2. Build the new navigation HTML
+    const navHTML = `
+        <div class="ff-nav-wrap">
+            <a href="https://fitfixclothesalterations.co.ke/" class="ff-nav-logo">FitFix <span>Alterations</span></a>
+            <button class="ff-nav-toggle" id="ffNavToggle" aria-label="Toggle navigation">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="ff-nav-links" id="ffNavLinks">
+                <li><a href="https://fitfixclothesalterations.co.ke/">Home</a></li>
+                <li><a href="https://fitfixclothesalterations.co.ke/suit-alteration-services/">Alterations</a></li>
+                <li><a href="https://fitfixclothesalterations.co.ke/made-to-measure/" class="active">Made-to-Measure</a></li>
+                <li><a href="https://fitfixclothesalterations.co.ke/leather-repair/">Leather &amp; Shoes</a></li>
+                <li><a href="https://fitfixclothesalterations.co.ke/pricing/">Pricing</a></li>
+                <li><a href="https://fitfixclothesalterations.co.ke/contact-us/">Contact</a></li>
+            </ul>
+            <a href="https://wa.me/254705728896" class="ff-nav-cta" target="_blank">Book on WhatsApp</a>
+        </div>
+    `;
+
+    // 3. Find the old header, delete it, and insert the new one
+    const newNav = document.createElement('nav');
+    newNav.className = 'fitfix-main-nav';
+    newNav.innerHTML = navHTML;
+
+    const oldHeader = document.querySelector('header.site') || document.querySelector('header');
+    
+    if (oldHeader) {
+        oldHeader.parentNode.replaceChild(newNav, oldHeader);
+    } else {
+        document.body.insertBefore(newNav, document.body.firstChild);
+    }
+
+    // 4. Make the mobile menu button work
+    const toggleBtn = document.getElementById('ffNavToggle');
+    const navLinks = document.getElementById('ffNavLinks');
+    
+    if (toggleBtn) {
+        toggleBtn.addEventListener('click', function() {
+            navLinks.classList.toggle('open');
+        });
+    }
+});
+</script>
 </body>
 </html>
