@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en-KE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Why Every Modern Man Needs a Bespoke Jogger Set | FitFix Nairobi</title>
+<meta name="description" content="Discover why off-the-rack loungewear is failing you and how a made-to-measure jogger set from FitFix can elevate your comfort and style. Learn about fabrics, fits, and our bespoke process.">
+<link rel="canonical" href="https://fitfixclothesalterations.co.ke/blog/why-you-need-a-bespoke-jogger-set/">
+<meta name="robots" content="index,follow">
+<style>
+:root{--navy:#233047;--gold:#D4AF37;--ink:#1a1a1a;--bg:#faf8f5;--grey:#f4f4f4;--line:#e0e0e0;--wa:#25d366;--slate:#5a5a5a}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font:17px/1.7 Arial,Helvetica,sans-serif;color:var(--ink);background:var(--bg);padding-bottom:70px}
+img{max-width:100%;display:block}
+a{color:var(--gold);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:800px;margin:0 auto;padding:0 20px}
+header{background:var(--navy);padding:16px 0;border-bottom:3px solid var(--gold)}
+header .wrap{display:flex;justify-content:space-between;align-items:center}
+.logo{color:#fff;font-weight:bold;font-size:20px}
+.crumbs{font-size:14px;padding:16px 0;color:var(--slate)}
+.crumbs a{color:var(--slate)}
+h1{font-size:32px;line-height:1.2;color:var(--navy);margin:20px 0}
+h2{font-size:24px;color:var(--navy);margin:36px 0 16px}
+h3{font-size:19px;color:var(--navy);margin:24px 0 12px}
+p{margin-bottom:20px;color:var(--slate)}
+ul{margin:0 0 20px 24px}
+li{margin-bottom:10px;color:var(--slate)}
+.greview{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);padding:20px;margin:30px 0;text-align:center;border-radius:4px}
+.greview p{font-weight:bold;color:var(--ink);margin-bottom:10px}
+.greview a{display:inline-block;background:var(--gold);color:var(--navy);padding:12px 24px;border-radius:4px;font-weight:bold}
+.cta-box{background:var(--navy);color:#fff;padding:36px;border-radius:8px;text-align:center;margin:40px 0}
+.cta-box h2{color:#fff;margin-top:0}
+.cta-box p{color:#ddd}
+.btn-wa{display:inline-block;background:var(--wa);color:#fff;padding:16px 30px;border-radius:6px;font-weight:bold;font-size:18px;margin-top:10px;min-height:52px;line-height:20px}
+details{background:#fff;border:1px solid var(--line);border-radius:6px;margin-bottom:12px;padding:16px 20px}
+summary{cursor:pointer;font-weight:bold;color:var(--navy)}
+details p{margin-top:14px;margin-bottom:0}
+footer{background:var(--navy);color:#999;padding:36px 0;font-size:14px;text-align:center}
+footer a{color:var(--gold)}
+.sticky{position:fixed;bottom:0;left:0;right:0;display:flex;z-index:50}
+.sticky a{flex:1;text-align:center;padding:16px;font-weight:bold;color:#fff;text-decoration:none}
+.sticky .wa{background:var(--wa)}
+.sticky .call{background:var(--navy);color:var(--gold)}
+.img-container{margin:30px 0;border-radius:8px;overflow:hidden;box-shadow:0 4px 12px rgba(0,0,0,0.1)}
+.bofu-box{background:#fff;border:2px solid var(--gold);border-radius:8px;padding:24px;margin:30px 0;text-align:center}
+.bofu-box p{font-size:18px;font-weight:bold;color:var(--navy);margin-bottom:0}
+.banner-link{display:block;background:var(--navy);color:#fff!important;padding:24px;border-radius:8px;text-align:center;font-weight:bold;font-size:20px;margin:40px 0;border:3px solid var(--gold);transition:background 0.3s ease;text-decoration:none!important}
+.banner-link:hover{background:#1a2436}
+.banner-link span{display:block;font-size:14px;font-weight:normal;color:var(--gold);margin-top:8px}
+
+/* HERO SECTION STYLES */
+.hero-section {
+  position: relative;
+  background-image: url('https://i.ibb.co/Xr0tqmCM/file-00000000f1048211a3ea5e8475dbf80e.png');
+  background-size: cover;
+  background-position: center top;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 40px;
+}
+.hero-overlay {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: linear-gradient(to bottom, rgba(35, 48, 71, 0.5), rgba(35, 48, 71, 0.9));
+  z-index: 1;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  padding: 40px 20px;
+}
+.hero-content h1 {
+  color: #fff;
+  font-size: 40px;
+  margin-bottom: 20px;
+  line-height: 1.2;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+.hero-content p {
+  color: #f0f0f0;
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+.hero-btn {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--navy);
+  padding: 16px 36px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  transition: background 0.3s;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+.hero-btn:hover {
+  background: #c5a032;
+}
+
+@media(min-width:900px){body{padding-bottom:0}.sticky{display:none}}
+</style>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@graph":[
+  {
+   "@type":"BlogPosting",
+   "@id":"https://fitfixclothesalterations.co.ke/blog/why-you-need-a-bespoke-jogger-set/#article",
+   "headline":"Why Every Modern Man Needs a Bespoke Jogger Set (And How to Get the Perfect Fit)",
+   "description":"Discover why off-the-rack loungewear is failing you and how a made-to-measure jogger set from FitFix can elevate your comfort and style.",
+   "image":"https://i.ibb.co/Xr0tqmCM/file-00000000f1048211a3ea5e8475dbf80e.png",
+   "author":{"@type":"Person","name":"David Ochieng","url":"https://fitfixclothesalterations.co.ke/about-david-ochieng/"},
+   "publisher":{"@type":"LocalBusiness","name":"FitFix Clothes Alterations","url":"https://fitfixclothesalterations.co.ke/"},
+   "datePublished":"2026-10-24",
+   "dateModified":"2026-10-24",
+   "mainEntityOfPage":"https://fitfixclothesalterations.co.ke/blog/why-you-need-a-bespoke-jogger-set/"
+  },
+  {
+   "@type":"BreadcrumbList",
+   "itemListElement":[
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://fitfixclothesalterations.co.ke/"},
+    {"@type":"ListItem","position":2,"name":"Blog","item":"https://fitfixclothesalterations.co.ke/blog/"},
+    {"@type":"ListItem","position":3,"name":"Why You Need a Bespoke Jogger Set","item":"https://fitfixclothesalterations.co.ke/blog/why-you-need-a-bespoke-jogger-set/"}
+   ]
+  },
+  {
+   "@type":"FAQPage",
+   "mainEntity":[
+    {"@type":"Question","name":"Where can I find a bespoke tailor in Nairobi who can make a custom French terry jogger set?","acceptedAnswer":{"@type":"Answer","text":"FitFix Clothes Alterations specializes in bespoke menswear. We stock premium French terry and can tailor a set to your exact measurements. Contact us via WhatsApp for a consultation and fabric viewing."}},
+    {"@type":"Question","name":"How much does a made-to-measure jogger set cost in Nairobi?","acceptedAnswer":{"@type":"Answer","text":"Our bespoke jogger sets start from KES 6,500 for premium cotton jersey. French terry sets start from KES 8,500, and fully customized signature sets start from KES 12,000. We provide a transparent quote after your free consultation."}},
+    {"@type":"Question","name":"Can I get a custom jogger set made if I am taller or shorter than average?","acceptedAnswer":{"@type":"Answer","text":"Yes! That is the primary benefit of made-to-measure. We take over a dozen measurements, including inseam and rise, to ensure the set fits your height and body proportions perfectly."}},
+    {"@type":"Question","name":"What is the difference between cotton jersey and French terry for joggers?","acceptedAnswer":{"@type":"Answer","text":"Cotton jersey is lightweight and breathable, perfect for warm weather. French terry is heavier, has a smooth outer face and soft looped interior, making it more structured and suitable for cooler weather or a more tailored look."}}
+   ]
+  }
+ ]
+}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a href="https://fitfixclothesalterations.co.ke/" class="logo">FitFix Alterations</a>
+  </div>
+</header>
+
+<!-- HERO SECTION -->
+<section class="hero-section">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <h1>Why Every Modern Man Needs a Bespoke Jogger Set</h1>
+    <p>Stop settling for ill-fitting loungewear. Discover the comfort and confidence of a made-to-measure set tailored exclusively for you.</p>
+    <a href="https://fitfixclothesalterations.co.ke/made-to-measure/jogger-set/" class="hero-btn">Explore Our Custom Jogger Sets</a>
+  </div>
+</section>
+
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="https://fitfixclothesalterations.co.ke/">Home</a> / <a href="https://fitfixclothesalterations.co.ke/blog/">Blog</a> / Why You Need a Bespoke Jogger Set
+  </nav>
+
+  <p>Let’s be honest about the modern man’s wardrobe. We spend hours agonizing over the fit of a suit jacket, the break of a trouser, and the collar of a dress shirt. We understand that these details matter for our professional image. But when it comes to our off-duty hours—the weekends, the travel days, the work-from-home sessions—we often settle for the easiest, cheapest option: the mass-produced jogger set.</p>
+
+  <p>And why not? They are comfortable, they are convenient, and they signal a departure from the rigid confines of formal wear. However, there is a hidden cost to this convenience. The mass-produced jogger set is a compromise. It is cut to an "average" pattern that fits almost no one perfectly. The fabric is often a thin, synthetic blend that traps heat and loses its shape after a few washes. The waistband digs in, the cuffs sag, and the overall silhouette is often sloppy and shapeless.</p>
+
+  <p>At <a href="https://fitfixclothesalterations.co.ke/">FitFix Clothes Alterations</a>, we believe that comfort should not come at the expense of style or quality. We believe that your loungewear should fit as impeccably as your best bespoke suit. That is why we have created a comprehensive guide to why every modern man needs a bespoke jogger set, and how our <a href="https://fitfixclothesalterations.co.ke/made-to-measure/jogger-set/">Made-to-Measure Men's Jogger Set</a> service is changing the game for men in Nairobi.</p>
+
+  <div class="greview">
+    <p>Rated 5.0 Stars by Clients in Nairobi</p>
+    <a href="https://g.page/r/CQrh4y6zb339EBM/review" target="_blank">⭐️⭐️⭐️⭐️⭐️ See Our Reviews</a>
+  </div>
+
+  <h2>The Problem with Off-the-Rack Loungewear</h2>
+
+  <p>To understand the value of a bespoke set, you first need to understand why the off-the-rack options are failing you. When you buy a standard jogger set from a fast-fashion retailer or a department store, you are buying a garment designed for a hypothetical "average" body. This average body does not exist. It is a statistical construct used to minimize manufacturing costs.</p>
+  
+  <p>This means that when you wear that set, it will likely fit perfectly in one area—perhaps the waist—but be completely wrong in another—perhaps the inseam or the thigh. You end up with a set that constantly requires readjustment. You are pulling up the waistband, or you are rolling up the cuffs, or you are feeling restricted in the crotch. This constant fidgeting is the opposite of comfort.</p>
+
+  <p>Furthermore, the fabrics used in cheap loungewear are often poor quality. They are typically polyester blends that do not breathe. They trap moisture against the skin, leading to discomfort and odor. They pill after a few washes, developing a fuzzy, worn-out appearance. The elastic in the waistband and cuffs quickly loses its snap, leaving you with a saggy, shapeless garment.</p>
+
+  <p>If you have ever found yourself searching for <strong>where to get a tailored men's jogger set in Nairobi that actually fits my waist and leg length</strong>, it is because you have experienced the frustration of these mass-market compromises. A bespoke set eliminates these problems entirely.</p>
+
+  <h2>The Rise of Elevated Loungewear</h2>
+
+  <p>The COVID-19 pandemic fundamentally changed the way we dress. As millions of people transitioned to working from home, the demand for comfortable clothing skyrocketed. However, the definition of "comfortable" also evolved. Men no longer wanted to look like they had just rolled out of bed during a Zoom meeting. They wanted clothing that felt like pajamas but looked polished and put-together.</p>
+
+  <p>This gave rise to the "elevated loungewear" trend. High-end brands began producing jogger sets made from luxurious fabrics like cashmere, silk, and premium cotton. These sets were designed to be worn both at home and out in public. The jogger set became a statement of sophisticated relaxation.</p>
+
+  <p>Today, a well-made jogger set is one of the most versatile pieces in a modern man's wardrobe. It is perfect for:</p>
+  <ul>
+    <li><strong>Travel:</strong> A comfortable set is essential for long flights and airport lounges. It looks stylish but feels like a second skin.</li>
+    <li><strong>Casual Weekends:</strong> Running errands, grabbing a coffee, or meeting friends. A jogger set says you are relaxed but intentional.</li>
+    <li><strong>Work From Home:</strong> You need to look presentable on video calls, but you also want to be comfortable while sitting at your desk all day.</li>
+    <li><strong>Post-Workout:</strong> After a gym session or a run, a premium jogger set is the perfect recovery wear.</li>
+  </ul>
+  <p>But to truly experience the benefits of elevated loungewear, you need a set that is made for you. You need a bespoke set. Explore our full <a href="https://fitfixclothesalterations.co.ke/made-to-measure/">made-to-measure collection</a> to see how we elevate every aspect of your wardrobe, from custom shirts to tailored chinos.</p>
+
+  <!-- BANNER LINK 1 -->
+  <a href="https://fitfixclothesalterations.co.ke/made-to-measure/jogger-set/" class="banner-link">
+    Ready to Experience Bespoke Comfort?
+    <span>Click here to design your own Made-to-Measure Men's Jogger Set.</span>
+  </a>
+
+  <h2>The Anatomy of a Perfect Jogger Set</h2>
+
+  <p>A bespoke jogger set is not just two pieces of fabric sewn together. It is a carefully engineered system of proportions, drape, and tension. Here are the components that make a bespoke set truly exceptional:</p>
+
+  <h3>1. The Fabric: The Foundation of Comfort</h3>
+  <p>The fabric is the soul of a jogger set. It dictates how the garment feels against your skin, how it drapes on your body, and how it performs over time. We offer a curated selection of premium fabrics, including 100% cotton jersey, French terry, fleece blends, and bamboo-cotton. Each fabric has its own unique properties and is suited to different climates and activities. <a href="https://fitfixclothesalterations.co.ke/made-to-measure/jogger-set/">Read our full fabric guide here</a>.</p>
+
+  <h3>2. The Waistband: The Anchor</h3>
+  <p>The waistband is the most critical component of the jogger set. If it is too tight, it creates discomfort and restricts movement. If it is too loose, the trousers will sag, requiring constant readjustment. Our bespoke waistbands are engineered to your exact waist measurement, with a choice of elastic tension, drawcord styles, and rise (how high the waistband sits on your torso). We also offer a "hidden" elastic option for a cleaner, more formal look.</p>
+
+  <h3>3. The Rise: The Secret to a Flattering Fit</h3>
+  <p>The rise is the distance from the crotch seam to the top of the waistband. A low rise sits on the hips; a high rise sits at the natural waist. The right rise depends on your body type and personal preference. A high rise often looks more polished and elongates the legs, while a mid-rise is more traditional and comfortable for lounging. During your fitting, we will help you determine the ideal rise for your silhouette.</p>
+
+  <h3>4. The Thigh and Leg Taper</h3>
+  <p>This is where the difference between a good set and a great set really shows. We measure your thigh circumference, knee circumference, and calf circumference to create a taper that is proportional to your body. Some clients prefer a straight leg for maximum comfort; others prefer a jogger that tapers sharply at the ankle for a modern, athletic look. We can also add a "drop crotch" for a more relaxed, streetwear-inspired aesthetic.</p>
+
+  <h3>5. The Cuffs: The Finishing Touch</h3>
+  <p>The ribbed cuffs at the ankle are a signature feature of a jogger set. They should be snug enough to stay in place but not so tight that they restrict blood flow. We use high-quality, elasticized ribbing that retains its shape over time. We can customize the length of the cuff and the tightness of the elastic to your preference.</p>
+
+  <h3>6. The Details: Pockets, Drawcords, and Stitching</h3>
+  <p>It is the small details that elevate a garment from ordinary to extraordinary. We offer a range of customization options, including:</p>
+  <ul>
+    <li><strong>Pockets:</strong> Angled side pockets, zippered security pockets (perfect for travel), or a hidden internal phone pocket.</li>
+    <li><strong>Drawcords:</strong> Flat woven laces, round cords, or elasticized drawcords. You can choose the color, the tips (metal or plastic), and the placement.</li>
+    <li><strong>Stitching:</strong> Contrast stitching in gold, white, or black can add a subtle design element. We also offer tonal stitching for a more minimalist look.</li>
+    <li><strong>Branding:</strong> Add a custom embroidered monogram or a small logo on the chest or thigh for a truly personalized touch.</li>
+  </ul>
+
+  <h2>Fabric Deep Dive: Choosing the Right Comfort for You</h2>
+
+  <p>The fabric is the most important decision you will make when ordering a custom jogger set. Here is a detailed breakdown of our most popular options:</p>
+
+  <h3>100% Cotton Jersey</h3>
+  <p>This is the lightest and most breathable option. It has a soft, natural hand-feel and is perfect for Nairobi's warm climate or for those who run hot. Cotton jersey drapes well and softens with every wash, becoming more comfortable over time. It is ideal for a relaxed, everyday set. <strong>Best for:</strong> Warm weather, lounging at home, casual outings. <strong>Weight:</strong> 150-180 GSM.</p>
+
+  <h3>French Terry</h3>
+  <p>French terry is a step up in weight and luxury. It has a smooth outer face and a soft, looped interior that provides warmth without bulk. It is more structured than jersey, making it ideal for a tapered, tailored silhouette. It is the perfect choice for a set that transitions from the sofa to the street. <strong>Best for:</strong> Year-round wear, travel, versatile styling. <strong>Weight:</strong> 250-300 GSM.</p>
+
+  <h3>Cotton-Poly Fleece</h3>
+  <p>For maximum warmth and durability, our fleece blend is unbeatable. The polyester content helps the garment retain its shape and resist wrinkles, making it an excellent choice for travel. It is heavier and bulkier, so we recommend a relaxed fit to maintain comfort. This is the ultimate set for cold mornings and long flights. <strong>Best for:</strong> Cold weather, travel, outdoor activities. <strong>Weight:</strong> 320-380 GSM.</p>
+
+  <h3>Bamboo-Cotton Blend</h3>
+  <p>For those who want the ultimate in softness and sustainability, our bamboo-cotton blend is a revelation. Bamboo is naturally moisture-wicking, odor-resistant, and incredibly soft—often compared to silk. The cotton adds structure and durability. This is a premium option for the discerning client who wants the best of both worlds. <strong>Best for:</strong> Sensitive skin, hot climates, luxury lounging. <strong>Weight:</strong> 180-220 GSM.</p>
+
+  <div class="bofu-box">
+    <p>Ready to feel the difference? WhatsApp your measurements or book a fitting today: 0705 728 896.</p>
+  </div>
+
+  <h2>The Bespoke Process at FitFix: How It Works</h2>
+
+  <p>We have removed the guesswork and the hassle from custom clothing. Our process is designed for the busy professional who values quality but does not have hours to spend in a fitting room. Here is exactly how we bring your jogger set to life:</p>
+
+  <h3>Step 1: A Conversation About Comfort</h3>
+  <p>Everything begins with a quick WhatsApp chat. You tell us what you are looking for—a lightweight set for Nairobi's warm afternoons, a heavier fleece for chilly evenings, or a travel-ready set that resists wrinkles. You can <a href="https://wa.me/254705728896">send us a message here</a> to start the conversation. We will discuss fabric options, color preferences, and the overall fit you have in mind.</p>
+
+  <h3>Step 2: Precision Measurement (At Your Door)</h3>
+  <p>We do not rely on a size chart. We take over a dozen measurements to ensure a flawless fit. Thanks to our <a href="https://fitfixclothesalterations.co.ke/pickup-and-delivery/">free pickup and delivery service</a>, we can come to your home or office anywhere in Nairobi—Westlands, Kilimani, Karen, Lavington, or the CBD. Our master tailor will measure your chest, shoulders, arm length, waist, hips, inseam, and thigh circumference. We also note your preferred rise and the desired taper of the leg.</p>
+
+  <h3>Step 3: Fabric Selection and Design Details</h3>
+  <p>You choose from our curated library of premium fabrics. We bring swatches to your fitting so you can feel the weight, texture, and breathability. This is where the set becomes truly yours. You can select the fabric type (jersey, terry, fleece), the fit (relaxed or tapered), the details (ribbed cuffs, zip pockets, flat drawcords), and the color. You can even bring a reference photo from Pinterest or Instagram, and we will work with you to replicate the look.</p>
+
+  <h3>Step 4: Craftsmanship and Final Delivery</h3>
+  <p>Your measurements and specifications are handed to our master tailor, <a href="https://fitfixclothesalterations.co.ke/about-david-ochieng/">David Ochieng</a>, and his team. The set is cut, sewn, and finished in our Nairobi workshop. We conduct a rigorous quality check before delivering it to your door. We will schedule a final fitting, and if any minor adjustment is needed, we handle it immediately under our <a href="https://fitfixclothesalterations.co.ke/warranty/">workmanship warranty</a>.</p>
+
+  <!-- BANNER LINK 2 -->
+  <a href="https://fitfixclothesalterations.co.ke/pickup-and-delivery/" class="banner-link">
+    Free Door-to-Door Measurement & Delivery in Nairobi
+    <span>We come to you. Book a convenient fitting at your home or office.</span>
+  </a>
+
+  <h2>Transparent Pricing: Invest in Your Comfort</h2>
+
+  <p>We believe bespoke clothing should be accessible. Our pricing is transparent, with no hidden fees. The cost of your set depends on the fabric you choose and the complexity of the design details. Here is a guide to our typical starting prices. If you want to see how our custom pricing compares to our alteration services, visit our <a href="https://fitfixclothesalterations.co.ke/pricing/">full pricing page</a>.</p>
+
+  <div style="overflow-x:auto;">
+    <table style="width:100%; border-collapse:collapse; margin:30px 0; background:#fff; box-shadow:0 4px 12px rgba(0,0,0,0.08); border-radius:8px; overflow:hidden;">
+      <thead>
+        <tr style="background:var(--navy); color:#fff; text-align:left;">
+          <th style="padding:18px; font-size:16px;">Jogger Set Tier</th>
+          <th style="padding:18px; font-size:16px;">Starting Price (KES)</th>
+          <th style="padding:18px; font-size:16px;">What is Included</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid var(--line);">
+          <td style="padding:18px; font-weight:bold; color:var(--ink);">Essential Cotton Jersey Set</td>
+          <td style="padding:18px; color:var(--gold); font-weight:bold; font-size:18px;">From 6,500</td>
+          <td style="padding:18px; font-size:15px; line-height:1.5;">Breathable 100% cotton jersey. Relaxed or tapered fit. Ribbed cuffs and hem. Elastic waistband with drawcord. Choice of core colors.</td>
+        </tr>
+        <tr style="border-bottom:1px solid var(--line); background:#faf8f5;">
+          <td style="padding:18px; font-weight:bold; color:var(--ink);">Premium French Terry Set</td>
+          <td style="padding:18px; color:var(--gold); font-weight:bold; font-size:18px;">From 8,500</td>
+          <td style="padding:18px; font-size:15px; line-height:1.5;">Mid-weight French terry with a smooth face and soft loopback interior. Enhanced drape and warmth. Choice of zip pockets or welt pockets. Wider color range.</td>
+        </tr>
+        <tr>
+          <td style="padding:18px; font-weight:bold; color:var(--ink);">Signature Custom Set</td>
+          <td style="padding:18px; color:var(--gold); font-weight:bold; font-size:18px;">From 12,000</td>
+          <td style="padding:18px; font-size:15px; line-height:1.5;">Premium fleece, bamboo blend, or specialty fabric. Full design customization including contrast stitching, monogram embroidery, custom drawcord tips, and bespoke pocketing. Priority turnaround.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Cost vs. Value: Why Bespoke is a Smart Investment</h2>
+
+  <p>At first glance, a bespoke jogger set may seem more expensive than a cheap, mass-market alternative. But when you look at the cost-per-wear, the math changes dramatically. A cheap KES 2,000 set that loses its shape after five washes and ends up in the trash is a false economy. A bespoke KES 8,500 set that fits perfectly, feels incredible, and lasts for years is a smart investment. You will wear it more often, you will feel better in it, and you will replace it less frequently.</p>
+  
+  <p>Furthermore, a bespoke set eliminates the hidden costs of ill-fitting clothing. You will not need to buy multiple sizes to find a compromise. You will not need to spend money on alterations later. You get exactly what you want, the first time. If you are looking for the <strong>best made to measure loungewear for men in Kenya that offers long-lasting quality and a perfect fit</strong>, FitFix is your answer.</p>
+
+  <h2>Styling Your Jogger Set: From Lounge to Street</h2>
+
+  <p>A bespoke jogger set is incredibly versatile. Here are a few ways to style it:</p>
+  <ul>
+    <li><strong>The Classic Athleisure Look:</strong> Pair your set with premium white sneakers and a simple t-shirt or a <a href="https://fitfixclothesalterations.co.ke/made-to-measure/shirts/">custom made-to-measure shirt</a> for a clean, modern look.</li>
+    <li><strong>The Elevated Travel Look:</strong> Wear your set with a lightweight bomber or a <a href="https://fitfixclothesalterations.co.ke/made-to-measure/blazers/">custom blazer</a> for a smart-casual airport outfit. Add a pair of slip-on loafers or clean minimal sneakers.</li>
+    <li><strong>The Relaxed Weekend Look:</strong> Pair the set with a classic cap and your favorite everyday sneakers. Perfect for running errands or grabbing coffee.</li>
+  </ul>
+  <p>If you want to build a complete, versatile wardrobe, explore our <a href="https://fitfixclothesalterations.co.ke/made-to-measure/capsule-wardrobe/">capsule wardrobe</a> planning and <a href="https://fitfixclothesalterations.co.ke/made-to-measure/workweek-capsule/">workweek capsule</a> services. We can curate a collection of bespoke pieces that work together seamlessly.</p>
+
+  <!-- BANNER LINK 3 -->
+  <a href="https://fitfixclothesalterations.co.ke/bespoke-tailoring-services/" class="banner-link">
+    Experience the Pinnacle of Bespoke Tailoring
+    <span>Discover how we create garments that fit you perfectly.</span>
+  </a>
+
+  <h2>What Our Clients Are Saying</h2>
+
+  <p>We are proud of the garments we create, but we are even prouder of the relationships we build with our clients. Here is what some of our bespoke clients have to say:</p>
+
+  <div class="greview" style="text-align:left;">
+    <p style="margin-bottom:5px; color:var(--gold);">⭐⭐⭐⭐⭐ <strong>"The Only Joggers I Wear Now"</strong></p>
+    <p style="font-weight:normal; color:var(--slate); font-style:italic; line-height:1.6;">"I used to buy jogger sets from the mall, and they always felt scratchy or lost their shape. FitFix made me a custom French terry set. The difference is night and day. It feels like I'm wearing a cloud, but it looks sharp enough to wear to the office on casual Friday. The free pickup for the fitting was a game-changer. I'm already ordering a second set."<br><br>— <strong>Brian K., Westlands</strong></p>
+  </div>
+
+  <div class="greview" style="text-align:left;">
+    <p style="margin-bottom:5px; color:var(--gold);">⭐⭐⭐⭐⭐ <strong>"Perfect for Travel"</strong></p>
+    <p style="font-weight:normal; color:var(--slate); font-style:italic; line-height:1.6;">"I travel a lot for work, and I needed a set that was comfortable for long flights but looked presentable enough for the airport lounge. David helped me choose a fleece blend that resists wrinkles and added zip pockets so I don't lose my passport. The fit is impeccable. Highly recommended for frequent flyers."<br><br>— <strong>Mark O., Kilimani</strong></p>
+  </div>
+
+  <div class="greview" style="text-align:left;">
+    <p style="margin-bottom:5px; color:var(--gold);">⭐⭐⭐⭐⭐ <strong>"Finally, a Set That Fits My Height"</strong></p>
+    <p style="font-weight:normal; color:var(--slate); font-style:italic; line-height:1.6;">"At 6'4", finding a jogger set that is long enough in the legs but not too baggy in the waist has always been a nightmare. FitFix measured me perfectly, and the finished set fits like a dream. The turnaround was exactly as promised. If you need a <strong>bespoke tailor in Nairobi who can make a custom French terry jogger set for tall men</strong>, this is the place."<br><br>— <strong>John M., Lavington</strong></p>
+  </div>
+
+  <h2>Caring for Your Bespoke Jogger Set</h2>
+
+  <p>A custom jogger set is an investment, and with proper care, it will last for years. Here are a few tips to keep your set looking and feeling new:</p>
+  <ul>
+    <li><strong>Wash inside out:</strong> This protects the outer surface of the fabric and prevents pilling.</li>
+    <li><strong>Use cold water:</strong> Hot water can cause cotton to shrink and colors to fade.</li>
+    <li><strong>Avoid harsh detergents:</strong> Use a mild, color-safe detergent. Avoid bleach.</li>
+    <li><strong>Air dry:</strong> Tumble drying can shrink the fabric and weaken the elastic. Hang your set to dry in the shade.</li>
+    <li><strong>Iron on low heat:</strong> If needed, iron the set inside out on a low heat setting. Avoid ironing directly over the drawcords or zippers.</li>
+  </ul>
+
+  <h2>Frequently Asked Questions</h2>
+
+  <details>
+    <summary>Where can I find a bespoke tailor in Nairobi who can make a custom French terry jogger set?</summary>
+    <p>FitFix Clothes Alterations specializes in bespoke menswear. We stock premium French terry and can tailor a set to your exact measurements. Contact us via WhatsApp for a consultation and fabric viewing.</p>
+  </details>
+
+  <details>
+    <summary>How much does a made-to-measure jogger set cost in Nairobi?</summary>
+    <p>Our bespoke jogger sets start from KES 6,500 for premium cotton jersey. French terry sets start from KES 8,500, and fully customized signature sets start from KES 12,000. We provide a transparent quote after your free consultation.</p>
+  </details>
+
+  <details>
+    <summary>Can I get a custom jogger set made if I am taller or shorter than average?</summary>
+    <p>Yes! That is the primary benefit of made-to-measure. We take over a dozen measurements, including inseam and rise, to ensure the set fits your height and body proportions perfectly.</p>
+  </details>
+
+  <details>
+    <summary>What is the difference between cotton jersey and French terry for joggers?</summary>
+    <p>Cotton jersey is lightweight and breathable, perfect for warm weather. French terry is heavier, has a smooth outer face and soft looped interior, making it more structured and suitable for cooler weather or a more tailored look.</p>
+  </details>
+
+  <div class="cta-box">
+    <h2>Your Comfort, Your Rules. Let's Get Started.</h2>
+    <p>Stop settling for off-the-rack loungewear that fits "okay." Invest in a set that fits perfectly, feels incredible, and reflects your personal style. Send us a message today to begin your bespoke journey.</p>
+    <a href="https://wa.me/254705728896?text=Hi%20FitFix%2C%20I%27d%20like%20to%20start%20my%20custom%20jogger%20set%20order." class="btn-wa">WhatsApp Us Now</a>
+    <p style="margin-top:16px; font-size:14px">Free consultation. No obligation. We serve all of Nairobi.</p>
+  </div>
+
+  <div class="greview" style="margin-bottom:60px;">
+    <p>Rated 5.0 Stars by Clients in Nairobi</p>
+    <a href="https://g.page/r/CQrh4y6zb339EBM/review" target="_blank">⭐️⭐️⭐️⭐️⭐️ See Our Reviews & Leave Yours</a>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <p><strong>FitFix Clothes Alterations</strong><br>Industrial Area, Nairobi, P.O. Box 6262-00100<br>Phone: <a href="tel:+254705728896">0705 728 896</a> | Mon-Sat 8am-6pm</p>
+    <p style="margin-top:16px"><a href="https://fitfixclothesalterations.co.ke/">Home</a> | <a href="https://fitfixclothesalterations.co.ke/privacy-policy/">Privacy</a> | <a href="https://fitfixclothesalterations.co.ke/terms-conditions/">Terms</a></p>
+  </div>
+</footer>
+
+<div class="sticky">
+  <a href="https://wa.me/254705728896" class="wa">WhatsApp Us</a>
+  <a href="tel:+254705728896" class="call">Call 0705 728896</a>
+</div>
+</body>
+</html>
