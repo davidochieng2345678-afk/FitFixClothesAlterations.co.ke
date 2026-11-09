@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /leather-repair/
 
 Sitemap: https://fitfixclothesalterations.co.ke/sitemap.xml
