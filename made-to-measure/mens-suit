@@ -1,3 +1,337 @@
+<!DOCTYPE html>
+<html lang="en-KE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bespoke Made-to-Measure Men's Suits Nairobi | Custom Tailoring | FitFix</title>
+<meta name="description" content="Experience the pinnacle of bespoke tailoring. Our made-to-measure men's suits are engineered for your exact body, using luxury Italian fabrics and full-canvas construction in Nairobi.">
+<link rel="canonical" href="https://fitfixclothesalterations.co.ke/made-to-measure/mens-suits/">
+<meta name="robots" content="index,follow">
+<style>
+:root{--navy:#233047;--gold:#D4AF37;--ink:#1a1a1a;--bg:#faf8f5;--grey:#f4f4f4;--line:#e0e0e0;--wa:#25d366;--slate:#5a5a5a;--suit:#3b3535}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font:17px/1.7 Arial,Helvetica,sans-serif;color:var(--ink);background:var(--bg);padding-bottom:70px}
+img{max-width:100%;display:block}
+a{color:var(--gold);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:800px;margin:0 auto;padding:0 20px}
+header{background:var(--navy);padding:16px 0;border-bottom:3px solid var(--gold)}
+header .wrap{display:flex;justify-content:space-between;align-items:center}
+.logo{color:#fff;font-weight:bold;font-size:20px}
+.crumbs{font-size:14px;padding:16px 0;color:var(--slate)}
+.crumbs a{color:var(--slate)}
+h1{font-size:32px;line-height:1.2;color:var(--navy);margin:20px 0}
+h2{font-size:24px;color:var(--navy);margin:36px 0 16px; border-bottom: 2px solid var(--gold); padding-bottom: 10px;}
+h3{font-size:19px;color:var(--navy);margin:24px 0 12px}
+p{margin-bottom:20px;color:var(--slate)}
+ul{margin:0 0 20px 24px}
+li{margin-bottom:10px;color:var(--slate)}
+.greview{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);padding:20px;margin:30px 0;text-align:center;border-radius:4px}
+.greview p{font-weight:bold;color:var(--ink);margin-bottom:10px}
+.greview a{display:inline-block;background:var(--gold);color:var(--navy);padding:12px 24px;border-radius:4px;font-weight:bold}
+.cta-box{background:var(--navy);color:#fff;padding:36px;border-radius:8px;text-align:center;margin:40px 0}
+.cta-box h2{color:#fff;margin-top:0; border:none;}
+.cta-box p{color:#ddd}
+.btn-wa{display:inline-block;background:var(--wa);color:#fff;padding:16px 30px;border-radius:6px;font-weight:bold;font-size:18px;margin-top:10px;min-height:52px;line-height:20px}
+details{background:#fff;border:1px solid var(--line);border-radius:6px;margin-bottom:12px;padding:16px 20px}
+summary{cursor:pointer;font-weight:bold;color:var(--navy)}
+details p{margin-top:14px;margin-bottom:0}
+footer{background:var(--navy);color:#999;padding:36px 0;font-size:14px;text-align:center}
+footer a{color:var(--gold)}
+.sticky{position:fixed;bottom:0;left:0;right:0;display:flex;z-index:50}
+.sticky a{flex:1;text-align:center;padding:16px;font-weight:bold;color:#fff;text-decoration:none}
+.sticky .wa{background:var(--wa)}
+.sticky .call{background:var(--navy);color:var(--gold)}
+.bofu-box{background:#fff;border:2px solid var(--gold);border-radius:8px;padding:24px;margin:30px 0;text-align:center}
+.bofu-box p{font-size:18px;font-weight:bold;color:var(--navy);margin-bottom:0}
+.banner-link{display:block;background:var(--navy);color:#fff!important;padding:24px;border-radius:8px;text-align:center;font-weight:bold;font-size:20px;margin:40px 0;border:3px solid var(--gold);transition:background 0.3s ease;text-decoration:none!important}
+.banner-link:hover{background:#1a2436}
+.banner-link span{display:block;font-size:14px;font-weight:normal;color:var(--gold);margin-top:8px}
+
+/* HERO SECTION STYLES */
+.hero-section {
+  position: relative;
+  background-image: url('https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=2080&auto=format&fit=crop');
+  background-size: cover;
+  background-position: center 20%;
+  min-height: 75vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 40px;
+}
+.hero-overlay {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: linear-gradient(to bottom, rgba(35, 48, 71, 0.5), rgba(35, 48, 71, 0.9));
+  z-index: 1;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  padding: 60px 20px;
+}
+.hero-content h1 {
+  color: #fff;
+  font-size: 48px;
+  margin-bottom: 20px;
+  line-height: 1.1;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+.hero-content p {
+  color: #f0f0f0;
+  font-size: 22px;
+  margin-bottom: 30px;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+.hero-btn {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--navy);
+  padding: 18px 40px;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  transition: background 0.3s;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+.hero-btn:hover {
+  background: #c5a032;
+}
+
+@media(min-width:900px){body{padding-bottom:0}.sticky{display:none}}
+</style>
+
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@graph":[
+  {
+   "@type":"Product",
+   "name":"Bespoke Made-to-Measure Men's Suit",
+   "description":"A custom-made men's suit engineered for your exact body. Full canvas construction, luxury Italian fabrics, and expert fittings in Nairobi.",
+   "image":"https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=2080&auto=format&fit=crop",
+   "brand":{"@type":"Brand","name":"FitFix Clothes Alterations"},
+   "offers":{
+    "@type":"AggregateOffer",
+    "priceCurrency":"KES",
+    "lowPrice":"35000",
+    "highPrice":"99000",
+    "offerCount":"1",
+    "availability":"https://schema.org/InStock"
+   }
+  },
+  {
+   "@type":"BreadcrumbList",
+   "itemListElement":[
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://fitfixclothesalterations.co.ke/"},
+    {"@type":"ListItem","position":2,"name":"Made to Measure","item":"https://fitfixclothesalterations.co.ke/made-to-measure/"},
+    {"@type":"ListItem","position":3,"name":"Men's Suits","item":"https://fitfixclothesalterations.co.ke/made-to-measure/mens-suits/"}
+   ]
+  },
+  {
+   "@type":"FAQPage",
+   "mainEntity":[
+    {"@type":"Question","name":"Why choose a made-to-measure suit over off-the-rack?","acceptedAnswer":{"@type":"Answer","text":"Off-the-rack suits are cut for a hypothetical average body. A made-to-measure suit is drafted to your specific measurements, accommodating your unique shoulder slope, posture, and drop. The result is a garment that looks and feels significantly better."}},
+    {"@type":"Question","name":"How long does it take to make a bespoke suit in Nairobi?","acceptedAnswer":{"@type":"Answer","text":"Standard turnaround for a made-to-measure suit is 3 to 4 weeks. This allows time for the initial consultation, basted fitting, and final adjustments. Express services are available upon request."}},
+    {"@type":"Question","name":"What is full canvas construction?","acceptedAnswer":{"@type":"Answer","text":"Full canvas means the suit jacket has a layer of horsehair and wool canvas running from the shoulders to the hem, loosely stitched inside by hand. This allows the jacket to mold to your body over time, providing superior drape, breathability, and longevity."}}
+   ]
+  }
+ ]
+}
+</script>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <a href="https://fitfixclothesalterations.co.ke/" class="logo">FitFix Alterations</a>
+  </div>
+</header>
+
+<!-- HERO SECTION -->
+<section class="hero-section">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <h1>Your Body. Your Suit. Your Rules.</h1>
+    <p>Stop compromising with off-the-rack sizes. Experience the perfect fit of a bespoke, made-to-measure suit engineered exclusively for you in Nairobi.</p>
+    <a href="https://wa.me/254705728896?text=Hi%20FitFix%2C%20I%27m%20interested%20in%20a%20made-to-measure%20suit%20consultation." class="hero-btn">Book Your Private Consultation</a>
+  </div>
+</section>
+
+<div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="https://fitfixclothesalterations.co.ke/">Home</a> / <a href="https://fitfixclothesalterations.co.ke/made-to-measure/">Made to Measure</a> / Men's Suits
+  </nav>
+
+  <h2>The End of Compromise: Why Off-the-Rack Fails You</h2>
+
+  <p>For generations, men have been forced to conform to the factory. You walk into a store, find a jacket that fits your chest, only to discover the sleeves are too long, the waist is boxy, and the shoulders droop. You buy it anyway, hoping a quick alteration can fix it. But there are limits to how much a tailor can alter a finished garment before the structure is compromised.</p>
+
+  <p>The truth is, an "average" body does not exist. Every man has a unique shoulder slope, a distinct posture, and a specific hip-to-waist ratio. When you buy off-the-rack, you are settling for a silhouette designed for a statistical hypothetical, not the man in the mirror.</p>
+
+  <p>At <a href="https://fitfixclothesalterations.co.ke/">FitFix Clothes Alterations</a>, we reject the concept of the standard size. Our <strong>Bespoke Made-to-Measure Men's Suits</strong> are crafted from the ground up, drafted to your exact measurements. We do not just measure your chest and waist; we measure your posture, your shoulder slope, and your preferred drape. The result is a garment that fits like a second skin, moves with you, and projects an undeniable air of authority.</p>
+
+  <div class="greview">
+    <p>Rated 5.0 Stars by Executives and Grooms in Nairobi</p>
+    <a href="https://g.page/r/CQrh4y6zb339EBM/review" target="_blank">⭐️⭐️⭐️⭐️⭐️ See Our Reviews</a>
+  </div>
+
+  <h2>The Anatomy of a FitFix Suit: Engineered for Excellence</h2>
+
+  <p>What separates a truly great suit from a merely adequate one? It is the invisible architecture. At FitFix, under the masterful eye of <a href="https://fitfixclothesalterations.co.ke/about-david-ochieng/">David Ochieng</a>, we utilize traditional tailoring techniques combined with modern precision. Here is what goes into every suit we create:</p>
+
+  <div class="prose-cols">
+    <div>
+      <h3>1. Full Canvas Construction</h3>
+      <p>Most suits under KSh 30,000 use a "fused" construction, where a layer of glue holds the interlining to the fabric. This glue inevitably bubbles and breaks down over time, ruining the shape of the jacket. </p>
+      <p>Our Signature and Executive suits feature a <strong>Full Floating Canvas</strong>. A layer of horsehair and wool canvas is placed inside the jacket and loosely stitched by hand. This allows the jacket to mold to your body over time, breathe naturally, and drape flawlessly. It is the most complex and labor-intensive way to build a suit, and it is the only way to achieve a true bespoke feel.</p>
+      
+      <h3>2. The Sleeve Pitch</h3>
+      <p>This is the most invisible detail on a suit, but you can feel it every time you move. Sleeve pitch is the angle at which the sleeve hangs from the shoulder. Off-the-rack suits cut sleeves straight down, causing them to twist when you move. We cut and set the sleeve head by hand, ensuring it follows the natural forward curve of your arm. When you reach for a handshake or type on a keyboard, the jacket moves with you, not against you.</p>
+    </div>
+    <div>
+      <h3>3. Bemberg Cupro Lining</h3>
+      <p>While the outer fabric protects you from the world, the lining protects your clothes and your comfort. We use premium Bemberg cupro lining, which is breathable, anti-static, and incredibly smooth. It allows you to slip the jacket on and off effortlessly over a <a href="https://fitfixclothesalterations.co.ke/made-to-measure/shirts/">made-to-measure shirt</a>, and prevents you from overheating in Nairobi's climate.</p>
+
+      <h3>4. Hand-Finished Details</h3>
+      <p>Look closely at a FitFix suit, and you will find details that machines simply cannot replicate. The lapels are hand-rolled (a process called *mappina*), giving them a soft, natural curve. The sleeve heads are inserted by hand to ensure they sit perfectly. The buttonholes on the jacket are hand-stitched. These are the hidden hallmarks of true bespoke tailoring.</p>
+    </div>
+  </div>
+
+  <!-- BANNER LINK 1 -->
+  <a href="https://fitfixclothesalterations.co.ke/made-to-measure/shirts/" class="banner-link">
+    Complete the Look with a Custom Shirt
+    <span>Explore our premium made-to-measure Egyptian cotton shirts.</span>
+  </a>
+
+  <h2>The Fabric Library: Choosing Your Armor</h2>
+
+  <p>The fabric is the soul of the suit. It dictates how the garment feels against your skin, how it drapes on your body, and how it performs in different climates. We source our fabrics from the most prestigious mills in Italy and the UK. Here is a guide to the options available to you:</p>
+
+  <div class="prose-cols">
+    <div>
+      <h3>Super 120s Wool: The Workhorse</h3>
+      <p>The gold standard for business suits. Super 120s wool is lightweight, breathable, and naturally wrinkle-resistant. It holds a crease beautifully and has a subtle, matte finish that looks highly professional. It is the ideal fabric for a suit you will wear two or three times a week.</p>
+
+      <h3>Super 150s Wool: The Executive Tier</h3>
+      <p>For the ultimate luxury, we offer finer micron wool. Super 150s is incredibly soft, almost silky to the touch, yet remarkably durable. It has a superior drape that elevates the entire look of the suit. This is the fabric of choice for our <a href="https://fitfixclothesalterations.co.ke/made-to-measure/executive-mens-suits/">Executive Suit collection</a>.</p>
+    </div>
+    <div>
+      <h3>Linen and Silk Blends</h3>
+      <p>Perfect for the Nairobi heat or for destination weddings. A wool-linen or wool-silk blend softens the wrinkling associated with pure linen while retaining its cool, breathable properties. It has a beautiful, textured look that is perfect for a <a href="https://fitfixclothesalterations.co.ke/groomsmen-suit-alterations/">groom's suit</a> or summer events.</p>
+
+      <h3>Flannel and Tweed</h3>
+      <p>For cooler climates or a more heritage aesthetic. Flannel is soft, brushed, and warm, while tweed offers incredible durability and texture. These are excellent choices for a winter suit or a country look.</p>
+    </div>
+  </div>
+
+  <div class="bofu-box" style="margin:40px 0;">
+    <p>Ready to feel the difference? WhatsApp us to book a free fabric consultation with David: <strong>0705 728 896</strong>.</p>
+  </div>
+
+  <h2>The FitFix Process: From Measurement to Masterpiece</h2>
+
+  <p>Creating a bespoke suit is a collaborative journey. It takes approximately 3 to 4 weeks, and we involve you at every critical stage to ensure the final result exceeds your expectations. We offer <a href="https://fitfixclothesalterations.co.ke/pickup-and-delivery/">free door-to-door pickup and delivery</a> across Nairobi to make the process as convenient as possible.</p>
+
+  <h3>Phase 1: The Consultation & Measurement</h3>
+  <p>It begins with a conversation at our Industrial Area workshop, or at your home or office. We discuss your lifestyle, your business environment, and your personal style. We then take over 30 detailed measurements, noting your posture, shoulder slope, and any asymmetries in your body. We ask how you wear your watch and which shoe you intend to wear with the suit, as these details affect the fit of the sleeve and the break of the trouser.</p>
+
+  <h3>Phase 2: Fabric and Design Selection</h3>
+  <p>We present a curated selection of fabric swatches so you can feel the weight and texture. You will choose the cloth, the lining, the button style, the lapel width, and the pocket configuration. We can even add custom monogramming to the inside jacket pocket for a truly personal touch.</p>
+
+  <h3>Phase 3: The Basted Fitting</h3>
+  <p>About two weeks after the consultation, you will try on a "basted" version of your suit. This is a rough assembly of the canvas and fabric held together by temporary white stitching. This fitting is crucial. It allows us to adjust the balance of the jacket, the position of the pockets, and the drape of the canvas on your actual body before the final sewing begins. This is where the true bespoke magic happens.</p>
+
+  <h3>Phase 4: Final Craftsmanship and Delivery</h3>
+  <p>After the basted fitting, we refine the suit and perform a final check. The lining is sewn in, the buttonholes are hand-stitched, and the suit is pressed to perfection. When it is ready, we deliver it to your door on a premium hanger and in a breathable garment bag. If any minor tweaks are required, we handle them immediately under our <a href="https://fitfixclothesalterations.co.ke/warranty/">lifetime workmanship warranty</a>.</p>
+
+  <!-- BANNER LINK 2 -->
+  <a href="https://fitfixclothesalterations.co.ke/pickup-and-delivery/" class="banner-link">
+    Free Door-to-Door Service in Nairobi
+    <span>We come to you. Book a private fitting at your home or office.</span>
+  </a>
+
+  <h2>Transparent Pricing: An Investment in Your Image</h2>
+
+  <p>We believe in complete transparency. A bespoke suit is an investment, but it is one that pays dividends in confidence and longevity. Here are our typical starting prices for our made-to-measure collections:</p>
+
+  <div style="overflow-x:auto;">
+    <table class="price-table" style="width:100%; border-collapse:collapse; margin:30px 0; background:#fff; box-shadow:0 4px 12px rgba(0,0,0,0.08); border-radius:8px; overflow:hidden;">
+      <thead>
+        <tr style="background:var(--navy); color:#fff; text-align:left;">
+          <th style="padding:18px; font-size:16px;">Suit Tier</th>
+          <th style="padding:18px; font-size:16px;">Starting Price (KES)</th>
+          <th style="padding:18px; font-size:16px;">What is Included</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid var(--line);">
+          <td style="padding:18px; font-weight:bold; color:var(--ink);">Essential Bespoke Suit</td>
+          <td style="padding:18px; color:var(--gold); font-weight:bold; font-size:18px;">From 35,000</td>
+          <td style="padding:18px; font-size:15px; line-height:1.5;">High-quality Super 100s wool blend. Half-canvas construction. Standard Bemberg lining. One basted fitting. Two-piece suit (jacket and trousers).</td>
+        </tr>
+        <tr style="border-bottom:1px solid var(--line); background:#faf8f5;">
+          <td style="padding:18px; font-weight:bold; color:var(--ink);">Signature Bespoke Suit</td>
+          <td style="padding:18px; color:var(--gold); font-weight:bold; font-size:18px;">From 55,000</td>
+          <td style="padding:18px; font-size:15px; line-height:1.5;">Premium Super 120s Italian wool. Full floating canvas construction. Contrast lining. Custom monogram. Two fitting sessions. Two-piece suit.</td>
+        </tr>
+        <tr>
+          <td style="padding:18px; font-weight:bold; color:var(--ink);">Executive Bespoke Suit</td>
+          <td style="padding:18px; color:var(--gold); font-weight:bold; font-size:18px;">From 99,000</td>
+          <td style="padding:18px; font-size:15px; line-height:1.5;">Ultra-luxury Super 150s wool or specialty fabrics. Full-canvas, hand-finished details. Silk lining. Three-piece suit (coat, vest, trousers). Priority service.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p><em>(Note: These are starting estimates. Your final quote is confirmed after fabric selection and design consultation. View our full <a href="https://fitfixclothesalterations.co.ke/pricing/">pricing page here</a>.)</em></p>
+
+  <h2>More Than Suits: Elevate Your Entire Wardrobe</h2>
+
+  <p>A bespoke suit is the foundation, but a true gentleman's wardrobe requires a full complement of custom garments. Once we have your precise measurements on file, we can craft the rest of your wardrobe with the same level of precision:</p>
+  
+  <ul>
+    <li><strong>Bespoke Shirts:</strong> Complete your look with our <a href="https://fitfixclothesalterations.co.ke/made-to-measure/shirts/">made-to-measure shirts</a>. Choose from Egyptian cotton, Sea Island cotton, or linen blends, with custom collars and cuffs.</li>
+    <li><strong>Tailored Chinos:</strong> For your off-duty executive hours, our <a href="https://fitfixclothesalterations.co.ke/made-to-measure/chinos/">custom chinos</a> offer the perfect blend of comfort and sharp style.</li>
+    <li><strong>Luxury Outerwear:</strong> Protect your investment with a <a href="https://fitfixclothesalterations.co.ke/made-to-measure/mens-overcoats/">bespoke overcoat</a> or a <a href="https://fitfixclothesalterations.co.ke/made-to-measure/bespoke-trench-coat/">waterproof trench coat</a>.</li>
+    <li><strong>The Groom's Party:</strong> If you are preparing for a wedding, we offer <a href="https://fitfixclothesalterations.co.ke/groomsmen-suit-alterations/">groomsmen suit alterations</a> and bespoke suits for the groom.</li>
+  </ul>
+
+  <h2>Frequently Asked Questions</h2>
+
+  <details>
+    <summary>Why choose a made-to-measure suit over off-the-rack?</summary>
+    <p>Off-the-rack suits are cut for a hypothetical average body. A made-to-measure suit is drafted to your specific measurements, accommodating your unique shoulder slope, posture, and drop. The result is a garment that looks and feels significantly better.</p>
+  </details>
+
+  <details>
+    <summary>How long does it take to make a bespoke suit in Nairobi?</summary>
+    <p>Standard turnaround for a made-to-measure suit is 3 to 4 weeks. This allows time for the initial consultation, basted fitting, and final adjustments. Express services are available upon request.</p>
+  </details>
+
+  <details>
+    <summary>What is full canvas construction?</summary>
+    <p>Full canvas means the suit jacket has a layer of horsehair and wool canvas running from the shoulders to the hem, loosely stitched inside by hand. This allows the jacket to mold to your body over time, providing superior drape, breathability, and longevity.</p>
+  </details>
+
+  <details>
+    <summary>Can you alter a made-to-measure suit if I lose or gain weight?</summary>
+    <p>Absolutely. Because we keep your pattern on file, we can easily adjust the suit as your body changes. We also offer expert <a href="https://fitfixclothesalterations.co.ke/suit-alteration-services/">suit alterations</a> and <a href="https://fitfixclothesalterations.co.ke/suit-shoulder-reduction-services/">shoulder reductions</a> if needed.</p>
+  </details>
+
+  <div class="cta-box">
+    <h2>Secure Your Private Consultation</h2>
+    <p>Your image is your most valuable business asset. Invest in a suit that reflects your success. Contact us today to begin your bespoke journey.</p>
+    <a href="https://wa.me/254705728896?text=Hi%20FitFix%2C%20I%27d%20like%20to%20book%20a%20private%20consultation%20for%20a%20made-to-measure%20suit." class="btn-wa">Book Your Fitting Now</a>
+    <p style="margin-top:16px; font-size:14px">Call or WhatsApp: 0705 728 896. Strictly by appointment.</p>
+  </div>
+
+</div>
+
 
 
 <!-- ═══════════════════════════════════════════════════════════════
@@ -353,3 +687,17 @@
 </section>
 
 <div class="tape"></div>
+
+<footer>
+  <div class="wrap">
+    <p><strong>FitFix Clothes Alterations</strong><br>Industrial Area, Nairobi, P.O. Box 6262-00100<br>Phone: <a href="tel:+254705728896">0705 728 896</a> | Mon-Sat 8am-6pm</p>
+    <p style="margin-top:16px"><a href="https://fitfixclothesalterations.co.ke/">Home</a> | <a href="https://fitfixclothesalterations.co.ke/privacy-policy/">Privacy</a> | <a href="https://fitfixclothesalterations.co.ke/terms-conditions/">Terms</a></p>
+  </div>
+</footer>
+
+<div class="sticky">
+  <a href="https://wa.me/254705728896" class="wa">WhatsApp Us</a>
+  <a href="tel:+254705728896" class="call">Call 0705 728896</a>
+</div>
+</body>
+</html>
