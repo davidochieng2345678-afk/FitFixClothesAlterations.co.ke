@@ -1,4 +1,4 @@
-   document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     // Check if user closed the popup in this session
     if (sessionStorage.getItem('fitfixTrustPopupClosed') === 'true') {
         return; 
@@ -114,10 +114,21 @@
                 display: flex;
                 align-items: center;
                 gap: 8px;
+                text-decoration: none;
             }
 
             .fitfix-delivery { color: #25D366; }
-            .fitfix-location { color: #00BFFF; font-size: 13px; }
+            
+            .fitfix-location { 
+                color: #00BFFF; 
+                font-size: 13px; 
+                transition: color 0.2s ease;
+            }
+            
+            .fitfix-location:hover {
+                color: #66d9ff;
+                text-decoration: underline;
+            }
 
             @media (prefers-reduced-motion: reduce) {
                 .fitfix-trust-card { animation: none; }
@@ -148,9 +159,12 @@
             <p class="fitfix-feature-item fitfix-delivery">
                 <span>🚚</span> Free Door-to-Door Pickup & Delivery
             </p>
-            <p class="fitfix-feature-item fitfix-location">
-                <span>📍</span> Moving to Utalii House, CBD (Parking Available)
-            </p>
+            <!-- Clickable Location Link -->
+            <a href="https://maps.google.com/?q=Diamond+Plaza+Parklands+Nairobi" target="_blank" style="text-decoration: none;">
+                <p class="fitfix-feature-item fitfix-location">
+                    <span>📍</span> Moved to Diamond Plaza Parklands, 1st Floor (Parking Available)
+                </p>
+            </a>
         </div>
     `;
     
@@ -162,4 +176,4 @@
         popupElement.style.display = 'none';
         sessionStorage.setItem('fitfixTrustPopupClosed', 'true');
     });
-});     
+});
