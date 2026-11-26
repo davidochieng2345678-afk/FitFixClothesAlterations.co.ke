@@ -130,6 +130,27 @@ document.addEventListener("DOMContentLoaded", function() {
                 text-decoration: underline;
             }
 
+            .fitfix-cta-btn {
+                display: block;
+                width: 100%;
+                background: #D4AF37;
+                color: #111;
+                text-align: center;
+                padding: 12px 0;
+                border-radius: 8px;
+                font-weight: 700;
+                font-size: 14px;
+                text-decoration: none;
+                transition: background 0.2s ease, transform 0.2s ease;
+                margin-top: 4px;
+                box-sizing: border-box;
+            }
+
+            .fitfix-cta-btn:hover {
+                background: #fce485;
+                transform: translateY(-1px);
+            }
+
             @media (prefers-reduced-motion: reduce) {
                 .fitfix-trust-card { animation: none; }
             }
@@ -159,13 +180,17 @@ document.addEventListener("DOMContentLoaded", function() {
             <p class="fitfix-feature-item fitfix-delivery">
                 <span>🚚</span> Free Door-to-Door Pickup & Delivery
             </p>
-            <!-- Clickable Location Link -->
             <a href="https://maps.google.com/?q=Diamond+Plaza+Parklands+Nairobi" target="_blank" style="text-decoration: none;">
                 <p class="fitfix-feature-item fitfix-location">
                     <span>📍</span> Moved to Diamond Plaza Parklands, 1st Floor (Parking Available)
                 </p>
             </a>
         </div>
+
+        <!-- NEW CONTACT US BUTTON -->
+        <a href="https://fitfixclothesalterations.co.ke/contact-us/" class="fitfix-cta-btn">
+            Book an Appointment
+        </a>
     `;
     
     document.body.appendChild(popup);
