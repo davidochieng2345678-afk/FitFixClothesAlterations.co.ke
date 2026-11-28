@@ -503,5 +503,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
+
+    <url>
+    <loc>https://fitfixclothesalterations.co.ke/blog/anatomy-of-a-suit-that-fits/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://fitfixclothesalterations.co.ke/blog/lawyers-bankers-ceos-made-to-measure/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>                       
       
 </urlset>
